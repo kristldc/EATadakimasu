@@ -1,7 +1,7 @@
 EATadakimasu Project Notes.
 by Kimberly Campomanes, Kristelle Dela Cruz, and Trish Lalata
 
-- the program is developed to run in Linux since we couldn't configure how to run it directly to window because of the ncurses library.
+- the program is developed to run in Linux
 
 - makefile is already included for easier compiling.
 
